@@ -1,1 +1,2 @@
-# LizzardScriptRemoteControll
+Active:Yes
+Volume:100
