@@ -1,2 +1,5 @@
-Active:Yes
-Volume:100
+Active:True  
+Volume:100  
+PZ:25
+Test:False  
+TestRest:False  
